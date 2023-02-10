@@ -1,7 +1,7 @@
 import telegram from 'node-telegram-bot-api';
 import { Configuration, OpenAIApi } from 'openai';
 
-const key = "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";
+const key = "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";
 const token = '5307523807:AAHuxs-SIftLXbN_HQ_AqX5GsPur5TViBys'; // id do bot
 const chatMessage = -736130754; // id do grupo do telegram.
 
